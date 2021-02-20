@@ -31,7 +31,7 @@
 I'm a student in the Computer Technician course at IFRN - Campus Caicó and I like programming and learning new things.
 
 
-## Skillset
+<!--## Skillset
 <p align='center'>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -46,7 +46,7 @@ I'm a student in the Computer Technician course at IFRN - Campus Caicó and I li
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-</p>
+</p> -->
 
 ## Status
 
