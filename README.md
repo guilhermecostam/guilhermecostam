@@ -28,7 +28,7 @@
 <img align="right" src="https://github.com/guilhermecostam/guilhermecostam/blob/main/image.svg" width="330"/>
 
 ### Hi there 👋 I'm Guilherme
-I'm a student in the Computer Technician course at IFRN - Campus Caicó and I like programming and learning new things.
+I'm a computer technician graduated from IFRN - Caicó Campus and like web development and learning new things.
 
 
 <!--## Skillset
