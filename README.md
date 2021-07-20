@@ -60,5 +60,9 @@ I'm a computer technician graduated from IFRN - Caicó Campus and like web devel
 - 📖 **Computer Technician**\
 📆 2017 - 2021\
 📍 **Federal Institute of Rio Grande do Norte** - Caicó, Brazil
+  
+- 📖 **Majoring in Information Systems**\
+📆 2021 - 2024\
+📍 **Federal University of Rio Grande do Norte** - Caicó, Brazil
 
 </details>
