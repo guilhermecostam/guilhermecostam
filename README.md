@@ -12,7 +12,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://guilhermecostam.github.io/gcostaportfolio/" target="_blank">
+  <a href="https://guilhermecostam.github.io/" target="_blank">
     <img "Portfolio" src="https://img.shields.io/badge/-Portfolio-0057a1?style=for-the-badge" />
   </a>&nbsp;&nbsp;
   
