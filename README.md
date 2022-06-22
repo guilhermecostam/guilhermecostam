@@ -16,16 +16,11 @@
     <img "Portfolio" src="https://img.shields.io/badge/-Portfolio-0057a1?style=for-the-badge" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://pt.stackoverflow.com/users/180341/guilherme-costa" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  
 </p>
 <img align="right" src="https://github.com/guilhermecostam/guilhermecostam/blob/main/image.svg" width="330"/>
 
 ### Hi there 👋 I'm Guilherme
-I'm a computer technician graduated from IFRN - Caicó Campus and like web development and learning new things.
-
+Ahoy! My name is Guilherme Costa and I'm a Web Developer. My current goal as a programmer is to seek knowledge, learning and experience to become an increasingly skilled professional.
 
 ## Skillset
 <p>
@@ -42,22 +37,3 @@ I'm a computer technician graduated from IFRN - Caicó Campus and like web devel
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
 </p>
-
-## Status
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guilhermecostam&hide_title=true&&hide=contribs&show_icons=true&hide_border=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
-  <summary>🏫 My Education</summary>
-
-## Education
-
-- 📖 **Computer Technician**\
-📆 2017 - 2021\
-📍 **Federal Institute of Rio Grande do Norte** - Caicó, Brazil
-  
-- 📖 **Majoring in Information Systems**\
-📆 2021 - Now\
-📍 **Federal University of Rio Grande do Norte** - Caicó, Brazil
-
-</details>
