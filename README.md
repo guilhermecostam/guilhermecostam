@@ -1,4 +1,4 @@
-![Coding](https://github.com/guilhermecostam/guilhermecostam/blob/main/image.svg)
+<img align="right" src="https://github.com/guilhermecostam/guilhermecostam/blob/main/image.svg" width="330" alt="Coding"/>
 
 # Hi there 👋 I'm Guilherme
 Ahoy! My name is Guilherme Costa and I'm a Web Developer. My current goal as a programmer is to seek knowledge, learning and experience to become an increasingly skilled professional.
@@ -40,7 +40,7 @@ Ahoy! My name is Guilherme Costa and I'm a Web Developer. My current goal as a p
   </a>&nbsp;&nbsp;
   
   <a href="https://guilhermecostam.github.io/" target="_blank">
-    <img "Portfolio" src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" />
+    <img "Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>&nbsp;&nbsp;
   
    <a href="mailto:guilhermecostadev@gmail.com" target="_blank">
