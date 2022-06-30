@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/guilhermecostam/guilhermecostam/blob/main/image.svg" width="330" alt="Coding"/>
 
 # Hi there 👋 I'm Guilherme
-Ahoy! My name is Guilherme Costa and I'm a Web Developer. My goal as a programmer is to help others. I like to be able to make people's lives easier through technology.
+Ahoy! My name is Guilherme Costa and I'm a Web Developer with the goal of making people's lives easier through technology.
 
 ## :hammer_and_wrench: Languages/Frameworks I'm good at:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
