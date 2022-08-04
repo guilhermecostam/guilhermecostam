@@ -1,9 +1,9 @@
 <img align="right" src="https://github.com/guilhermecostam/guilhermecostam/blob/main/image.svg" width="330" alt="Coding"/>
 
-# Hi there 👋 I'm Guilherme
+## Hi there 👋 I'm Guilherme
 Ahoy! My name is Guilherme Costa and I'm a Web Developer with the goal of making people's lives easier through technology.
 
-## :hammer_and_wrench: Languages/Frameworks I'm good at:
+<!--## :hammer_and_wrench: Languages/Frameworks I'm good at:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,7 +23,7 @@ Ahoy! My name is Guilherme Costa and I'm a Web Developer with the goal of making
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)-->
 
 ## :mag: Where to find me:
 :speech_balloon: If you have any questions, **just ask me**. This is my email: **guilhermecostadev@gmail.com**.
